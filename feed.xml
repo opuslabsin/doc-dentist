@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>documentation-dentist</title>
+        <description>Dentist Appointment Documentation</description>
+        <link>opuslabsin.github.io/</link>
+        <atom:link href="opuslabsin.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Thu, 18 Oct 2018 01:11:29 +0530</pubDate>
+        <lastBuildDate>Thu, 18 Oct 2018 01:11:29 +0530</lastBuildDate>
+        <generator>Jekyll v3.6.2</generator>
+        
+    </channel>
+</rss>
